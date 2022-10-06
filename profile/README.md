@@ -1,5 +1,5 @@
 ## Welcome to the Catholic Research Economists Discussion Organization (CREDO)
----
+
 ## About Credo 
 
 The Catholic Research Economists Discussion Organization (CREDO) is an international society of hundreds of research economists who are interested in the conversation between the Catholic faith and economic research as it applies to the economy, the Church, and broader society.
