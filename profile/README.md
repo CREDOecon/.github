@@ -17,3 +17,8 @@ Find more about CREDO on our [website](https://credo-economists.org/)
 
 ### Interested in joining? Click [here](https://credo-economists.org/join/)
 
+
+## CREDO Repositories
+
+### [Submitted Course Materials by CREDO Members](CREDOecon/Submitted-Course-Materials-by-CREDO-members)
+This is a public repository where CREDO members post open-source materials for courses, seminars and other projects involving economics and Catholic Social Teaching. 
