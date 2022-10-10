@@ -21,4 +21,4 @@ Find more about CREDO on our [website](https://credo-economists.org/)
 ## CREDO Repositories
 
 ### [Submitted Course Materials by CREDO Members](https://github.com/CREDOecon/Submitted-Course-Materials-by-CREDO-members)
-This is a public repository where CREDO members post open-source materials for courses, seminars and other projects involving economics and Catholic Social Teaching. 
+This is a repository where CREDO members post open-source materials for courses, seminars and other projects involving economics, Catholic Social Teaching, theology, or ethics.
